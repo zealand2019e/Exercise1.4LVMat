@@ -1,0 +1,9 @@
+C:\Users\Matus\Desktop\Assignment_4\Book\bin\Release\netcoreapp2.2\NewAssignment.deps.json
+C:\Users\Matus\Desktop\Assignment_4\Book\bin\Release\netcoreapp2.2\NewAssignment.dll
+C:\Users\Matus\Desktop\Assignment_4\Book\bin\Release\netcoreapp2.2\NewAssignment.pdb
+C:\Users\Matus\Desktop\Assignment_4\Book\obj\Release\netcoreapp2.2\NewAssignment.csprojAssemblyReference.cache
+C:\Users\Matus\Desktop\Assignment_4\Book\obj\Release\netcoreapp2.2\NewAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Matus\Desktop\Assignment_4\Book\obj\Release\netcoreapp2.2\NewAssignment.AssemblyInfoInputs.cache
+C:\Users\Matus\Desktop\Assignment_4\Book\obj\Release\netcoreapp2.2\NewAssignment.AssemblyInfo.cs
+C:\Users\Matus\Desktop\Assignment_4\Book\obj\Release\netcoreapp2.2\NewAssignment.dll
+C:\Users\Matus\Desktop\Assignment_4\Book\obj\Release\netcoreapp2.2\NewAssignment.pdb

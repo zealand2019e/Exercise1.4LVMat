@@ -1,0 +1,14 @@
+C:\Users\Matus\Desktop\Assignment_4\TCPServer\bin\Debug\netcoreapp2.2\TCPServer.deps.json
+C:\Users\Matus\Desktop\Assignment_4\TCPServer\bin\Debug\netcoreapp2.2\TCPServer.runtimeconfig.json
+C:\Users\Matus\Desktop\Assignment_4\TCPServer\bin\Debug\netcoreapp2.2\TCPServer.runtimeconfig.dev.json
+C:\Users\Matus\Desktop\Assignment_4\TCPServer\bin\Debug\netcoreapp2.2\TCPServer.dll
+C:\Users\Matus\Desktop\Assignment_4\TCPServer\bin\Debug\netcoreapp2.2\NewAssignment.dll
+C:\Users\Matus\Desktop\Assignment_4\TCPServer\bin\Debug\netcoreapp2.2\NewAssignment.pdb
+C:\Users\Matus\Desktop\Assignment_4\TCPServer\obj\Debug\netcoreapp2.2\TCPServer.csprojAssemblyReference.cache
+C:\Users\Matus\Desktop\Assignment_4\TCPServer\obj\Debug\netcoreapp2.2\TCPServer.csproj.CoreCompileInputs.cache
+C:\Users\Matus\Desktop\Assignment_4\TCPServer\obj\Debug\netcoreapp2.2\TCPServer.AssemblyInfoInputs.cache
+C:\Users\Matus\Desktop\Assignment_4\TCPServer\obj\Debug\netcoreapp2.2\TCPServer.AssemblyInfo.cs
+C:\Users\Matus\Desktop\Assignment_4\TCPServer\obj\Debug\netcoreapp2.2\TCPServer.csproj.CopyComplete
+C:\Users\Matus\Desktop\Assignment_4\TCPServer\bin\Debug\netcoreapp2.2\TCPServer.pdb
+C:\Users\Matus\Desktop\Assignment_4\TCPServer\obj\Debug\netcoreapp2.2\TCPServer.dll
+C:\Users\Matus\Desktop\Assignment_4\TCPServer\obj\Debug\netcoreapp2.2\TCPServer.pdb
